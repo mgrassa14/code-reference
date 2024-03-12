@@ -1,21 +1,29 @@
-### File commands
+# File commands
+_make folder_
+```
+mkdir (name)
+```
+_make file_
+```
+touch (name)
+```
+# Git commands
 
-### Git commands
-## Update git repo for code/project
-add comment
+### Update git repo for code/project
+_add comment_
 ```
 git add -A
 git commit -m "comment..."
 ```
-change branch from master to main
+_change branch from master to main_
 ```
 git branch -M main
 ```
-push up saved changes from code to repo
+_push up saved changes from code to repo_
 ```
 git push origin main
 ```
-pull saved changes from repo to code
+_pull saved changes from repo to code_
 ```
 git pull origin main
 ```
