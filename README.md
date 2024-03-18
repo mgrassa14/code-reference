@@ -27,3 +27,23 @@ _pull saved changes from repo to code_
 ```
 git pull origin main
 ```
+# Django commands
+_start running database_
+```
+sudo service postgresql start
+```
+_stop running database_
+```
+sudo service postgresql stop
+```
+_check status of database_
+```
+sudo service postgresql status
+```
+_connect to postgres service and open psql shell_
+```
+sudo -u postgres psql
+```
+```
+\q or CTRL + D (exit)
+```
