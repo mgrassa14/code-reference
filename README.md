@@ -1,3 +1,9 @@
+# Quality of Life commands
+_keep very long, single line comments or codes within the some screen (windows)_
+```
+Alt + Z
+```
+
 # File commands
 _make folder_
 ```
