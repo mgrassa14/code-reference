@@ -61,3 +61,11 @@ _open virtual environment_
 ```
 source (name)/bin/activate
 ```
+_check django version_
+```
+django-admin --version
+```
+_check python3 version_
+```
+python3 -V
+```
