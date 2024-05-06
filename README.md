@@ -53,3 +53,11 @@ sudo -u postgres psql
 ```
 \q or CTRL + D (exit)
 ```
+_make virtual environment_
+```
+virtualenv (name)
+```
+_open virtual environment_
+```
+source (name)/bin/activate
+```
