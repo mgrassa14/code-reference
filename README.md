@@ -61,6 +61,10 @@ _open virtual environment_
 ```
 source (name)/bin/activate
 ```
+_close virtual environment_
+```
+deactivate
+```
 _check django version_
 ```
 django-admin --version
